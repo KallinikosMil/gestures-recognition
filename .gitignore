@@ -1,0 +1,15 @@
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+.expo-shared/
+android/
+ios/
+
+# Miscellaneous
+.idea/
+.vscode/
+*.iml
